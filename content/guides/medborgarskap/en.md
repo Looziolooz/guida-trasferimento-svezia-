@@ -30,6 +30,8 @@ official:
 You are Swedish **at birth** if at least one parent is Swedish, wherever you are born. Everyone else goes through **naturalisation**: since 6 June 2026 that takes **8 years** of residence (shorter for some groups), a permanent permit, good conduct, **enough income** and knowledge of Swedish and Swedish society. **EU/EEA citizens have an important shortcut** (see below). You apply to Migrationsverket, the Swedish Migration Agency.
 :::
 
+**Voting:** voting in Riksdag elections requires citizenship: see [the right to vote](/en/guide/rostratt).
+
 ## How citizenship is acquired
 
 There are two routes. **At birth**, without doing anything. **By naturalisation**, with an application to Migrationsverket once you meet the requirements. The rules are in the Swedish Citizenship Act (2001:82).

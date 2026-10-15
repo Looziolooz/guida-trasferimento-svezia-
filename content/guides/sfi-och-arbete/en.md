@@ -24,6 +24,8 @@ official:
 The Swedish course for adults is called **SFI** (*svenska för invandrare*, Swedish for immigrants). You are entitled to it from the second half of the year you turn 16, and **no personnummer is required**. From 1 January 2026 there is a **3-year limit**. For work, the public agency is **Arbetsförmedlingen**. To be protected if you lose your job you need the **a-kassa**: **join early**, because the level of the benefit depends on how long you have been a member.
 :::
 
+**Do you have a foreign qualification?** See how to have it assessed and recognised in [foreign qualifications](/en/guide/utlandsk-utbildning).
+
 ## SFI: the Swedish course for adults
 
 **SFI** is the public Swedish course for adults who lack the basics of the language. It is run by the **municipality (kommun)** where you live, and that is where you apply.

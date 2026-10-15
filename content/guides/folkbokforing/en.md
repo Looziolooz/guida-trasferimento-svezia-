@@ -34,6 +34,8 @@ official:
 If you plan to live in Sweden **for at least a year**, you must register in the population register (**folkbokföring**) with **Skatteverket**, the Swedish Tax Agency. You notify the move through the **"Flytta till Sverige"** e-service, then go **in person** to a servicekontor for the identity check. It takes **about 5 weeks**, the decision comes **by letter**, and with your first registration you receive your **personnummer**, the Swedish personal identity number.
 :::
 
+**Tax:** your tax table depends on where you are registered on 1 November: see [tax and tax return](/en/guide/skatt-och-deklaration).
+
 ## The one-year rule
 
 By law, a person is folkbokförd if they can be presumed to sleep regularly in Sweden **for at least a year**. Skatteverket puts it this way: if you have moved and plan to stay a year or more, you **should in most cases be registered**.

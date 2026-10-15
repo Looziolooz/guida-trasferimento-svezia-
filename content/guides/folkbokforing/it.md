@@ -34,6 +34,8 @@ official:
 Se pensi di vivere in Svezia **almeno un anno**, devi registrarti all'anagrafe (**folkbokföring**) presso **Skatteverket**, il Fisco svedese. Lo notifichi con il servizio online **«Flytta till Sverige»**, poi vai **di persona** a un servicekontor per il controllo d'identità. Servono **circa 5 settimane**, la risposta arriva **per lettera** e con la prima registrazione ricevi il **personnummer**, il codice personale svedese.
 :::
 
+**Tasse:** la tua tabella d’imposta dipende da dove sei registrato il 1° novembre: vedi [tasse e dichiarazione](/it/guide/skatt-och-deklaration).
+
 ## La regola dell'anno
 
 La legge dice che è folkbokförd chi si può presumere che dorma regolarmente in Svezia **per almeno un anno**. Skatteverket lo spiega così: se ti sei trasferito e pensi di restare un anno o più, **nella maggior parte dei casi devi essere registrato**.

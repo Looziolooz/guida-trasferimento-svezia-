@@ -1,3 +1,4 @@
+import { getCampaign } from "@/data/campaign";
 import { costsFor, daysCovered, daysInYear, yearlyCostFor } from "@/data/goals";
 import { formatMoney, type Locale } from "@/lib/locales";
 import type { Dict } from "@/lib/ui";
@@ -10,7 +11,7 @@ import type { Dict } from "@/lib/ui";
  * ha ancora donato, e dice esattamente cosa manca; nasconderlo lasciava la
  * campagna senza niente di misurabile.
  */
-export function SupportStats({
+export async function SupportStats({
   dict,
   locale,
 }: {
@@ -19,7 +20,8 @@ export function SupportStats({
 }) {
   const copy = dict.support.campaign;
   const { currency, items } = costsFor(locale);
-  const days = daysCovered();
+  const { raised } = await getCampaign();
+  const days = daysCovered(raised);
   const percent = Math.min(100, (days / daysInYear) * 100);
   const goal = formatMoney(yearlyCostFor(locale), currency, locale);
 

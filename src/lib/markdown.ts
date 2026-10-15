@@ -106,6 +106,9 @@ export function extractToc(source: string): TocEntry[] {
     const text = match[2]
       .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
       .replace(/[*_`]/g, "")
+      // Un carattere preceduto da backslash è letterale: «UHR\:s» si legge «UHR:s».
+      // Senza escape, «:s» verrebbe preso per una direttiva e sparirebbe dal titolo.
+      .replace(/\\(.)/g, "$1")
       .trim();
     toc.push({ id: slugger.slug(text), text, depth });
   }

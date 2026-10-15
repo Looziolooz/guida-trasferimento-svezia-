@@ -24,6 +24,8 @@ official:
 Bostaden är det svåraste när du flyttar till en storstad. **Bostadsköerna** innebär **många års väntan**, så de flesta nyanlända börjar med ett **andrahandskontrakt** eller hyr av en privatperson. **Betala aldrig något i förskott** innan du har sett bostaden och kontraktet är påskrivet: det är den första regeln mot bedrägerier.
 :::
 
+**När du flyttar in:** teckna en [hemförsäkring](/sv/guide/hemforsakring) och välj elavtal och bredband i guiden [el, bredband och mobil](/sv/guide/el-bredband-mobil).
+
 **Vill du köpa i stället för att hyra?** → [köpa bostad](/sv/guide/kopa-bostad)
 
 ## Vilka kontrakt du kommer att möta

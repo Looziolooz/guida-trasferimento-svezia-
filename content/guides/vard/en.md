@@ -32,6 +32,8 @@ official:
 Healthcare is run by the **regions**, which largely set the patient fees themselves: **fees differ from region to region**. Call or go to **1177** for medical advice, and call **112** in an emergency. To get **subsidised care** you need to be **folkbokförd** (registered in the population register): a residence permit alone is not enough. There is **high-cost protection** (**högkostnadsskydd**) for both visits and medicines.
 :::
 
+**Pregnancy and children:** visits to the midwife clinic (MVC) and the child health centre (BVC) are explained in [children and family](/en/guide/barn-och-familj).
+
 ## How it is organised
 
 Public healthcare in Sweden is run by the **regions**. They set most of the patient fees (**patientavgifter**) and organise care locally. So the figures and local rules here are **examples**: always check your own region.

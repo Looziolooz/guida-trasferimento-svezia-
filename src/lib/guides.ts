@@ -1,4 +1,4 @@
-export const categoryIds = ["arrivo", "casa", "salute", "soldi", "vita"] as const;
+export const categoryIds = ["arrivo", "casa", "famiglia", "salute", "soldi", "vita"] as const;
 
 export type CategoryId = (typeof categoryIds)[number];
 
@@ -31,20 +31,32 @@ export const guides: GuideMeta[] = [
   { slug: "medborgarskap", category: "arrivo", icon: "Landmark", order: 5 },
   // Solo per cittadini italiani: l'iscrizione AIRE scatta con la folkbokföring.
   { slug: "aire", category: "arrivo", icon: "Flag", order: 6 },
+  { slug: "flytta-fran-sverige", category: "arrivo", icon: "PlaneTakeoff", order: 9 },
 
   // ── Casa ──────────────────────────────────────────────────────────────
   { slug: "bostad", category: "casa", icon: "Home", order: 1, essential: true },
   { slug: "kopa-bostad", category: "casa", icon: "KeySquare", order: 2 },
+  { slug: "hemforsakring", category: "casa", icon: "ShieldCheck", order: 3 },
+  { slug: "el-bredband-mobil", category: "casa", icon: "Zap", order: 4 },
+
+  // ── Famiglia e scuola ─────────────────────────────────────────────────
+  { slug: "forskola-och-skola", category: "famiglia", icon: "School", order: 1, essential: true },
+  { slug: "barn-och-familj", category: "famiglia", icon: "Baby", order: 2 },
 
   // ── Salute ────────────────────────────────────────────────────────────
   { slug: "vard", category: "salute", icon: "Stethoscope", order: 1, essential: true },
 
   // ── Previdenza e soldi ────────────────────────────────────────────────
   { slug: "forsakringskassan", category: "soldi", icon: "PiggyBank", order: 1 },
+  { slug: "skatt-och-deklaration", category: "soldi", icon: "Receipt", order: 2 },
+  { slug: "pension", category: "soldi", icon: "Sunset", order: 3 },
 
   // ── Lavoro e lingua ───────────────────────────────────────────────────
   { slug: "sfi-och-arbete", category: "vita", icon: "GraduationCap", order: 1, essential: true },
   { slug: "fack-och-a-kassa", category: "vita", icon: "Handshake", order: 2 },
+  { slug: "korkort-och-bil", category: "vita", icon: "Car", order: 3 },
+  { slug: "utlandsk-utbildning", category: "vita", icon: "Award", order: 4 },
+  { slug: "rostratt", category: "vita", icon: "Vote", order: 5 },
 ];
 
 export const guideSlugs = guides.map((g) => g.slug);

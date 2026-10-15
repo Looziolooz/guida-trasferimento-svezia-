@@ -24,6 +24,8 @@ official:
 Il corso di svedese per adulti si chiama **SFI** (*svenska för invandrare*): spetta dalla seconda metà dell'anno in cui compi 16 anni e **non serve il personnummer**. Dal 1° gennaio 2026 vale un **limite di 3 anni**. Per il lavoro, l'ente pubblico è **Arbetsförmedlingen**. Per proteggerti se perdi il lavoro serve l'**a-kassa**: **iscriviti presto**, perché il livello dell'indennità dipende da quanto tempo sei stato iscritto.
 :::
 
+**Hai un titolo di studio estero?** Vedi come farlo valutare e riconoscere in [titoli di studio e professioni](/it/guide/utlandsk-utbildning).
+
 ## SFI: il corso di svedese per adulti
 
 L'**SFI** è il corso pubblico di svedese per adulti che non hanno le basi della lingua. Lo organizza il **comune (kommun)** dove vivi: è lì che fai domanda.

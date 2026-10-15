@@ -32,6 +32,8 @@ official:
 **Försäkringskassan** sköter socialförsäkringen: barnbidrag, föräldrapenning, ersättning vid sjukdom, bostadsbidrag. Det som avgör är **var du bor eller arbetar**, inte ditt medborgarskap. Inom EU gäller: **du är försäkrad i det land där du arbetar**. **Från 1 januari 2027 ändras kvalificeringen** för vissa bosättningsbaserade förmåner: läs varningen nedan.
 :::
 
+**Se även:** detaljerna om föräldraledighet och VAB finns i [barn och familj](/sv/guide/barn-och-familj); om den allmänna pensionen, se guiden [pension](/sv/guide/pension).
+
 ## Vem är försäkrad
 
 Den svenska socialförsäkringen bygger på två grunder: **bosättning** (du bor i Sverige) och **arbete** (du arbetar i Sverige). Ditt medborgarskap spelar ingen roll.

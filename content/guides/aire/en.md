@@ -34,6 +34,8 @@ official:
 This guide is for **Italian citizens** living in Sweden. It is written in English for partners, Swedish relatives and English-speaking Italians. If an Italian citizen moves abroad **for more than 12 months**, they must register in **AIRE** (the Italian register of citizens living abroad) **within 90 days**. It is done **online** on the **FAST IT** portal, with a certificate from **Skatteverket** no more than 3 months old. Without AIRE there is no passport from the Embassy, no transcription of births and marriages, and a child born in Sweden cannot have Italian citizenship recorded.
 :::
 
+**See also:** voting in [the right to vote](/en/guide/rostratt) and, if you move back to Italy one day, [leaving Sweden](/en/guide/flytta-fran-sverige).
+
 ## What AIRE is and who must register
 
 AIRE is the Italian register of citizens who live outside Italy. You must register if you **move your residence abroad for more than 12 months**. It also applies to people who are already abroad because they were born there or became Italian later.

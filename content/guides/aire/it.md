@@ -34,6 +34,8 @@ official:
 Questa guida è per **cittadini italiani** che vivono in Svezia. Se ti trasferisci all'estero **per più di 12 mesi**, devi iscriverti all'**AIRE** (Anagrafe degli italiani residenti all'estero) **entro 90 giorni**. Si fa **online** sul portale **FAST IT**, con un certificato di **Skatteverket** di non più di 3 mesi. Senza AIRE niente passaporto dall'Ambasciata, niente trascrizione di nascite e matrimoni, e per i figli nati in Svezia il percorso verso la cittadinanza italiana si blocca.
 :::
 
+**Vedi anche:** il voto dall’estero in [diritto di voto](/it/guide/rostratt) e, se un giorno torni in Italia, [lasciare la Svezia](/it/guide/flytta-fran-sverige).
+
 ## Cos'è l'AIRE e chi deve iscriversi
 
 L'AIRE è l'anagrafe dei cittadini italiani che vivono fuori dall'Italia. Deve iscriversi chi **trasferisce la residenza all'estero per più di 12 mesi**. Vale anche per chi è già all'estero perché è nato lì o è diventato italiano dopo.

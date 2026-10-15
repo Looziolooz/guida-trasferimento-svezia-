@@ -2,6 +2,7 @@ import { ArrowUpRight, HeartHandshake } from "lucide-react";
 import { EspressoPicker } from "./EspressoPicker";
 import { SupportDonors } from "./SupportDonors";
 import { SupportStats } from "./SupportStats";
+import { getCampaign } from "@/data/campaign";
 import { costsFor, dailyCostFor, daysCovered, daysInYear } from "@/data/goals";
 import { formatMoney, type Locale } from "@/lib/locales";
 import {
@@ -29,7 +30,7 @@ import type { Dict } from "@/lib/ui";
  * blocco di sostegno entra in campo: la stessa richiesta non deve arrivare
  * due volte nella stessa schermata.
  */
-export function SupportSection({
+export async function SupportSection({
   dict,
   locale,
   className,
@@ -40,7 +41,8 @@ export function SupportSection({
 }) {
   const copy = dict.support.campaign;
   const { currency } = costsFor(locale);
-  const days = daysCovered();
+  const campaign = await getCampaign();
+  const days = daysCovered(campaign.raised);
   const daily = dailyCostFor(locale);
   // Il costo di un giorno in euro sta sotto l'unità: lì servono i centesimi.
   const dailyLabel = formatMoney(daily, currency, locale, daily < 1 ? 2 : 0);
@@ -131,7 +133,7 @@ export function SupportSection({
         ) : null}
       </div>
 
-      <SupportDonors dict={dict} locale={locale} />
+      <SupportDonors dict={dict} locale={locale} campaign={campaign} />
     </section>
   );
 }

@@ -32,6 +32,8 @@ official:
 Vården styrs av **regionerna**, som i stor utsträckning bestämmer patientavgifterna själva: **avgifterna skiljer sig mellan regioner**. Ring eller gå in på **1177** för vårdrådgivning, och ring **112** vid akuta nödlägen. För att få **subventionerad vård** ska du vara **folkbokförd**: ett uppehållstillstånd räcker inte. Det finns **högkostnadsskydd** för både besök och läkemedel.
 :::
 
+**Graviditet och barn:** besöken på barnmorskemottagningen (MVC) och BVC beskrivs i [barn och familj](/sv/guide/barn-och-familj).
+
 ## Så är vården organiserad
 
 Den offentliga vården i Sverige drivs av **regionerna**. De bestämmer till stor del patientavgifterna och hur vården organiseras lokalt. Siffror och regler här är därför **exempel**: kontrollera alltid din egen region.

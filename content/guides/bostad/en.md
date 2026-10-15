@@ -24,6 +24,8 @@ official:
 Housing is the hardest part of moving to a big Swedish city. The **housing queues (bostadskö)** mean **years of waiting**, so most newcomers start with a **sublet (andrahandskontrakt)** or a rental from a private owner. **Never pay anything in advance** before you have seen the home and the contract is signed: that is the first rule against scams.
 :::
 
+**When you move in:** take out [home insurance](/en/guide/hemforsakring) and choose your electricity and internet providers in the guide [electricity, internet and mobile](/en/guide/el-bredband-mobil).
+
 **Want to buy instead of rent?** → [buying a home](/en/guide/kopa-bostad)
 
 ## The kinds of contract you will meet

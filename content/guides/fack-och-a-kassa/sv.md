@@ -140,7 +140,7 @@ Reglerna om anställningsformer finns i lagen om anställningsskydd (LAS):
 **Avtal, lön, tvist** → facket i din bransch.
 **Arbetslöshetsersättning** → din a-kassa (eller Alfa-kassan).
 **Inskrivning som arbetssökande** → Arbetsförmedlingen.
-**Frågor om a-kassans regler** → kassan och IAF:s sidor.
+**Frågor om a-kassans regler** → kassan och IAF\:s sidor.
 :::
 
 ## Vanliga misstag

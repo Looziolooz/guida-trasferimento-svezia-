@@ -24,6 +24,8 @@ official:
 Svenskundervisningen för vuxna heter **SFI** (*svenska för invandrare*). Du har rätt till den från andra halvåret det år du fyller 16, och **du behöver inget personnummer**. Från 1 januari 2026 gäller en **gräns på 3 år**. För jobb är det **Arbetsförmedlingen** som gäller. För att vara skyddad om du blir av med jobbet behöver du **a-kassa**: **gå med tidigt**, för ersättningens nivå beror på hur länge du har varit medlem.
 :::
 
+**Har du en utländsk utbildning?** Läs hur du får den bedömd och erkänd i [utländsk utbildning](/sv/guide/utlandsk-utbildning).
+
 ## SFI: svenska för vuxna
 
 **SFI** är den offentliga svenskundervisningen för vuxna som saknar grunderna i språket. Den anordnas av den **kommun** där du bor, och det är dit du ansöker.
@@ -91,7 +93,7 @@ Det här är poängen: **skillnaden mellan 80 % och 50 % är hur stor del av din
 Med de nya reglerna får den som **inte är medlem** (eller har varit det en kort tid) bara nivån **50 %**. För **60 %** måste du ha varit medlem minst de senaste 6 månaderna, och för **80 %** under hela referensperioden. Har du precis kommit och har ett jobb, **gå med redan första månaden**: varje månad räknas, och att gå med först när du har förlorat jobbet är för sent för de högre nivåerna.
 :::
 
-Referensperioden och övriga beräkningsregler bestäms av myndigheterna: för detaljer och en exakt beräkning i ditt fall, se Arbetsförmedlingens och IAF:s sidor (IAF är inspektionen som granskar kassorna), länkade nedan.
+Referensperioden och övriga beräkningsregler bestäms av myndigheterna: för detaljer och en exakt beräkning i ditt fall, se Arbetsförmedlingens och IAF\:s sidor (IAF är inspektionen som granskar kassorna), länkade nedan.
 
 ## Ordning och reda, i rätt följd
 
@@ -104,7 +106,7 @@ Referensperioden och övriga beräkningsregler bestäms av myndigheterna: för d
 :::who[Vart du vänder dig]
 **SFI** → kommunen där du bor.
 **Jobb och registrering som arbetssökande** → Arbetsförmedlingen.
-**Frågor om a-kassans regler** → din kassa och IAF:s sidor.
+**Frågor om a-kassans regler** → din kassa och IAF\:s sidor.
 **Bosättningsbaserade förmåner (bidrag, ledighet)** → se [Försäkringskassan](/sv/guide/forsakringskassan).
 :::
 

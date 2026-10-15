@@ -32,6 +32,8 @@ official:
 **Försäkringskassan** è l'ente svedese dell'assicurazione sociale: assegni familiari, congedo parentale, indennità di malattia, contributo per l'affitto. Conta **dove vivi o lavori**, non la cittadinanza. Nell'UE vale la regola: **sei assicurato nel paese dove lavori**. **Dal 1° gennaio 2027 cambia la qualificazione** per alcune prestazioni legate alla residenza: leggi l'avviso più sotto.
 :::
 
+**Vedi anche:** i dettagli del congedo parentale e del VAB sono in [figli e famiglia](/it/guide/barn-och-familj); per la pensione pubblica c’è la guida [pensione](/it/guide/pension).
+
 ## Chi è assicurato
 
 L'assicurazione sociale svedese si basa su due criteri: **residenza** (vivi in Svezia) e **lavoro** (lavori in Svezia). Non conta di che paese sei cittadino.

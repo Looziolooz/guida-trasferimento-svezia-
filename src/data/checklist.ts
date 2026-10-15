@@ -329,4 +329,79 @@ export const checklist: ChecklistStep[] = [
       en: "EU/EEA citizens: after 3 months the right of residence requires work, a business, study or sufficient means; after 5 years it becomes permanent. Non-EU: watch your permit’s expiry date; from 12 July 2026 a permanent residence permit is no longer granted as a general rule. Non-EU family members of an EU citizen who stay more than 3 months apply to Migrationsverket for a residence card (uppehållskort).",
     },
   },
+  {
+    id: "el-anvisat-avtal",
+    phase: "settimana",
+    guide: "el-bredband-mobil",
+    title: {
+      it: "Scegli un fornitore di luce prima che scatti l’anvisat avtal",
+      sv: "Välj elleverantör innan det anvisade avtalet slår till",
+      en: "Choose an electricity supplier before the default contract (anvisat avtal) kicks in",
+    },
+    detail: {
+      it: "Per la luce ci sono due contratti: il fornitore (elhandel) lo scegli tu, la rete (elnät) no, è quella della zona. Se non scegli, ricevi un anvisat avtal, spesso più caro. Confronta le offerte su Elpriskollen, il sito indipendente di Energimarknadsinspektionen.",
+      sv: "För el finns två avtal: elleverantören (elhandel) väljer du själv, elnätet gör du inte, det är områdets. Väljer du inte får du ett anvisat avtal, ofta dyrare. Jämför erbjudanden på Elpriskollen, Energimarknadsinspektionens oberoende webbplats.",
+      en: "Electricity comes with two contracts: you choose the supplier (elhandel) but not the grid (elnät), which is the one for your area. If you do not choose, you get an anvisat avtal, often more expensive. Compare offers on Elpriskollen, the independent site of Energimarknadsinspektionen.",
+    },
+  },
+  {
+    id: "hemforsakring-teckna",
+    phase: "settimana",
+    guide: "hemforsakring",
+    title: {
+      it: "Fai la hemförsäkring",
+      sv: "Teckna en hemförsäkring",
+      en: "Take out home insurance",
+    },
+    detail: {
+      it: "Non è obbligatoria per legge, ma Konsumenternas la consiglia a chiunque abiti in affitto, in bostadsrätt o in una villa. Comprende beni, responsabilità civile, tutela legale e assicurazione viaggio. Se subaffitti, di solito non sei coperto dalla polizza dell’inquilino principale.",
+      sv: "Den är inte lagstadgad, men Konsumenternas rekommenderar den till alla som bor i hyresrätt, bostadsrätt eller villa. Den innehåller egendomsskydd, ansvarsskydd, rättsskydd och reseskydd. Hyr du i andra hand täcks du oftast inte av förstahandshyresgästens försäkring.",
+      en: "It is not required by law, but Konsumenternas recommends it to anyone renting, in a bostadsrätt or in a house. It covers belongings, liability, legal protection and travel cover. If you sublet, you are usually not covered by the main tenant’s policy.",
+    },
+  },
+  {
+    id: "forskola-skola-anmalan",
+    phase: "mese",
+    guide: "forskola-och-skola",
+    title: {
+      it: "Iscrivi i figli a förskola o scuola tramite il comune",
+      sv: "Anmäl barnen till förskola eller skola via kommunen",
+      en: "Register your children for preschool or school through the municipality",
+    },
+    detail: {
+      it: "Il comune deve offrire un posto in förskola entro 4 mesi dalla domanda, dall’età di 1 anno se lavori o studi. L’obbligo scolastico parte dall’autunno dell’anno in cui il bambino compie 6 anni (förskoleklass) e la scuola dell’obbligo è gratuita, pranzo compreso.",
+      sv: "Kommunen ska erbjuda en förskoleplats inom 4 månader från ansökan, från ett års ålder om du arbetar eller studerar. Skolplikten börjar hösten det år barnet fyller 6 år (förskoleklass) och grundskolan är avgiftsfri, med skolmåltider.",
+      en: "The municipality must offer a preschool place within 4 months of your application, from age 1 if you work or study. Compulsory schooling starts in the autumn of the year the child turns 6 (förskoleklass), and school is free, lunch included.",
+    },
+  },
+  {
+    id: "korkort-extra-ue",
+    phase: "trimestre",
+    guide: "korkort-och-bil",
+    title: {
+      it: "Solo non UE: la patente estera vale un anno dalla folkbokföring",
+      sv: "Bara utanför EU: ditt utländska körkort gäller ett år efter folkbokföringen",
+      en: "Non-EU only: your foreign licence is valid for one year after folkbokföring",
+    },
+    detail: {
+      it: "Una patente di un paese fuori dallo SEE si può usare solo se non sei folkbokförd da più di un anno (eccezione: Regno Unito e Isole Fær Øer). Si converte solo se rilasciata da Regno Unito, Isole Fær Øer, Svizzera o Giappone; per tutti gli altri serve la patente svedese. Verifica su Transportstyrelsen e Trafikverket.",
+      sv: "Ett körkort från ett land utanför EES får bara användas om du inte varit folkbokförd i mer än ett år (undantag: Storbritannien och Färöarna). Det kan bara bytas om det utfärdats i Storbritannien, på Färöarna, i Schweiz eller Japan; alla andra måste ta svenskt körkort. Kontrollera hos Transportstyrelsen och Trafikverket.",
+      en: "A licence from a country outside the EEA can only be used if you have not been folkbokförd for more than a year (exception: the UK and the Faroe Islands). It can only be exchanged if issued by the UK, the Faroe Islands, Switzerland or Japan; everyone else needs a Swedish licence. Check with Transportstyrelsen and Trafikverket.",
+    },
+  },
+  {
+    id: "skattetabell-deklaration",
+    phase: "trimestre",
+    guide: "skatt-och-deklaration",
+    title: {
+      it: "Controlla la tua tabella d’imposta e la prima dichiarazione",
+      sv: "Kontrollera din skattetabell och din första deklaration",
+      en: "Check your tax table and your first tax return",
+    },
+    detail: {
+      it: "Il datore di lavoro trattiene l’imposta in base alla tabella, che dipende da dove eri folkbokförd il 1° novembre dell’anno prima. Con più datori di lavoro puoi chiedere la jämkning. La dichiarazione (inkomstdeklaration) si fa online con e-legitimation; le date esatte dell’anno sono sul sito di Skatteverket.",
+      sv: "Arbetsgivaren drar skatt enligt tabellen, som beror på var du var folkbokförd den 1 november året innan. Har du flera arbetsgivare kan du begära jämkning. Deklarationen (inkomstdeklaration) lämnas online med e-legitimation; årets exakta datum finns på Skatteverkets webbplats.",
+      en: "Your employer withholds tax according to the table, which depends on where you were folkbokförd on 1 November of the previous year. With several employers you can ask for a jämkning. The tax return (inkomstdeklaration) is filed online with an e-legitimation; the exact dates each year are on Skatteverket’s website.",
+    },
+  },
 ];

@@ -34,6 +34,8 @@ official:
 Ska du bo i Sverige **minst ett år** ska du i de flesta fall vara folkbokförd (**folkbokföring**) hos **Skatteverket**. Du anmäler flytten i e-tjänsten **Flytta till Sverige** och går sedan **personligen** till ett servicekontor för identitetskontroll. Det tar **cirka 5 veckor**, beslutet kommer **med brev** och när du folkbokförs första gången får du ditt **personnummer**.
 :::
 
+**Skatt:** din skattetabell beror på var du är folkbokförd den 1 november: se [skatt och deklaration](/sv/guide/skatt-och-deklaration).
+
 ## Ettårsregeln
 
 Enligt lagen är den folkbokförd som kan antas vara bosatt i Sverige **minst ett år**. Skatteverket skriver att den som har flyttat hit och planerar att bo här i minst ett år **i de flesta fall ska vara folkbokförd här**.

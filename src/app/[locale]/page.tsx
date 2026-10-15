@@ -62,7 +62,8 @@ export default async function HomePage({
                     ))}
                   </ul>
                   <p className="mt-4 text-[0.7rem] uppercase tracking-[0.08em] text-muted">
-                    {steps.length} {dict.common.step.toLowerCase()}
+                    {steps.length}{" "}
+                    {(steps.length === 1 ? dict.common.step : dict.common.steps).toLowerCase()}
                   </p>
                 </div>
               </RevealItem>

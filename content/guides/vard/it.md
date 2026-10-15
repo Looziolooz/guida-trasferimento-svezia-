@@ -32,6 +32,8 @@ official:
 La sanità svedese la gestiscono le **regioni**, e decidono quasi da sole i ticket: **le cifre cambiano da regione a regione**. Per consigli e orientamento chiami o apri **1177**; in emergenza il **112**. Per avere la sanità **agevolata** devi essere **folkbokförd** (registrato all'anagrafe): il permesso di soggiorno da solo non basta. Esistono **tetti di spesa** (**högkostnadsskydd**) per visite e farmaci.
 :::
 
+**Gravidanza e bambini:** le visite alla barnmorskemottagning (MVC) e al BVC sono spiegate in [figli e famiglia](/it/guide/barn-och-familj).
+
 ## Come è organizzata
 
 La sanità pubblica svedese è organizzata dalle **regioni** (region). Sono loro a fissare in gran parte i ticket (**patientavgifter**) e a organizzare le cure sul territorio. Per questo ciò che leggi qui su cifre e regole locali vale come **esempio**: controlla la tua regione.

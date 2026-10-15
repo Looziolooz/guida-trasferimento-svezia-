@@ -24,6 +24,8 @@ official:
 Nelle grandi città la casa è il problema più difficile del trasferimento: le **code per la casa (bostadskö)** richiedono **anni di attesa**, quindi la maggior parte dei nuovi arrivati comincia con un **contratto di seconda mano (andrahandskontrakt)** o con un affitto da un privato. **Non pagare mai nulla in anticipo** prima di aver visto l'appartamento e firmato il contratto: è la regola numero uno contro le truffe.
 :::
 
+**Quando entri in casa:** fai la [assicurazione della casa](/it/guide/hemforsakring) e scegli il fornitore di luce e internet nella guida [luce, internet e telefono](/it/guide/el-bredband-mobil).
+
 **Vuoi comprare invece che affittare?** → [comprare casa](/it/guide/kopa-bostad)
 
 ## I tipi di contratto che incontrerai

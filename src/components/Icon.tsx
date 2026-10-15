@@ -1,4 +1,14 @@
 import {
+  Award,
+  Baby,
+  Car,
+  PlaneTakeoff,
+  Receipt,
+  School,
+  ShieldCheck,
+  Sunset,
+  Vote,
+  Zap,
   Briefcase,
   Flag,
   GraduationCap,
@@ -17,6 +27,16 @@ import {
 import type { CategoryId } from "@/lib/guides";
 
 const registry: Record<string, LucideIcon> = {
+  Award,
+  Baby,
+  Car,
+  PlaneTakeoff,
+  Receipt,
+  School,
+  ShieldCheck,
+  Sunset,
+  Vote,
+  Zap,
   Flag,
   GraduationCap,
   Handshake,
@@ -34,6 +54,7 @@ const registry: Record<string, LucideIcon> = {
 export const categoryIcons: Record<CategoryId, LucideIcon> = {
   arrivo: Plane,
   casa: Home,
+  famiglia: Baby,
   salute: Stethoscope,
   soldi: PiggyBank,
   vita: Briefcase,

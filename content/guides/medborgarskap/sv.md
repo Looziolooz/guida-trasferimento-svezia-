@@ -30,6 +30,8 @@ official:
 Du är svensk **från födseln** om minst en förälder är svensk, var i världen du än föds. Alla andra går via **naturalisering**: sedan 6 juni 2026 krävs **8 års** hemvist (kortare för vissa grupper), permanent tillstånd, skötsamhet, **tillräcklig försörjning** och kunskaper i svenska och om samhället. **Som EU/EES-medborgare har du en viktig genväg** (se nedan). Du ansöker hos Migrationsverket.
 :::
 
+**Röstning:** för att rösta i riksdagsvalet krävs medborgarskap: se [rösträtt](/sv/guide/rostratt).
+
 ## Så blir du svensk medborgare
 
 Det finns två vägar. **Genom födseln**, utan att göra något. **Genom naturalisering**, med en ansökan till Migrationsverket när du uppfyller kraven. Reglerna står i lagen om svenskt medborgarskap (2001:82).

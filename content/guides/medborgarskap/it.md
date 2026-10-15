@@ -30,6 +30,8 @@ official:
 Si è svedesi **dalla nascita** se almeno un genitore è svedese, ovunque si nasca. Tutti gli altri passano dalla **naturalizzazione**: dal 6 giugno 2026 servono **8 anni** di residenza (con periodi ridotti per alcune categorie), un permesso permanente, condotta irreprensibile, **reddito sufficiente** e conoscenze di svedese e società. **I cittadini UE/SEE hanno una scorciatoia importante** (vedi sotto). La domanda va a Migrationsverket, l'Agenzia svedese per la migrazione.
 :::
 
+**Voto:** per votare alle elezioni del Riksdag serve la cittadinanza: vedi [diritto di voto](/it/guide/rostratt).
+
 ## Come si acquista la cittadinanza
 
 Le strade sono due. **Per nascita**, senza fare nulla. **Per naturalizzazione**, con una domanda a Migrationsverket quando hai i requisiti. Le regole sono nella legge 2001:82 (*lagen om svenskt medborgarskap*).

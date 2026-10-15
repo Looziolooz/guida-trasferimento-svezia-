@@ -75,6 +75,17 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dict }) {
                 {dict.footer.contribute}
               </a>
             </p>
+            <p>
+              {dict.footer.sister}{" "}
+              <a
+                href={`https://italia-pratica.it/${locale}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline underline-offset-2 hover:text-ink"
+              >
+                → Italia Pratica
+              </a>
+            </p>
             <p>© {year} · {dict.site.name}</p>
           </div>
         </div>

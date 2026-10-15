@@ -3,6 +3,7 @@
 import { animate, motion, useInView, useReducedMotion } from "motion/react";
 import { useEffect, useRef, useState } from "react";
 import { HeartHandshake } from "lucide-react";
+import type { CampaignData } from "@/data/campaign";
 import { donorWall } from "@/data/donors";
 import { costsFor, raisedFor } from "@/data/goals";
 import { formatDate, formatMoney, type Locale } from "@/lib/locales";
@@ -14,7 +15,7 @@ const EASE = [0.16, 1, 0.3, 1] as const;
 /**
  * La parete di chi ha offerto un espresso.
  *
- * Non compare finché l'elenco in `src/data/donors.ts` è vuoto: una parete
+ * Non compare finché l'elenco dei donatori (da Italia Pratica) è vuoto: una parete
  * con zero nomi dice solo che nessuno ha dato niente.
  *
  * Si anima quando entra in campo — le pastiglie a cascata, il totale che
@@ -27,11 +28,13 @@ const EASE = [0.16, 1, 0.3, 1] as const;
 export function SupportDonors({
   dict,
   locale,
+  campaign,
 }: {
   dict: Dict;
   locale: Locale;
+  campaign: CampaignData;
 }) {
-  const wall = donorWall();
+  const wall = donorWall(campaign);
   const reduced = useReducedMotion();
   const totalRef = useRef<HTMLSpanElement>(null);
   const inView = useInView(totalRef, { once: true, margin: "-60px" });
@@ -54,7 +57,7 @@ export function SupportDonors({
 
   const copy = dict.support.donors;
   // Derivato dal registro, non da un secondo numero da tenere allineato.
-  const money = raisedFor(locale);
+  const money = raisedFor(campaign.raised, locale);
   const { currency } = costsFor(locale);
 
   const chips = [

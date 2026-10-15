@@ -34,6 +34,8 @@ official:
 Den här guiden riktar sig till **italienska medborgare** som bor i Sverige. Den är skriven på svenska för dig som är partner, släkting eller kollega till en italienare. Flyttar en italiensk medborgare utomlands **i mer än 12 månader** ska hen registrera sig i **AIRE** (italienska folkbokföringen för utlandsbosatta) **inom 90 dagar**. Det görs **på nätet** i portalen **FAST IT**, med ett intyg från **Skatteverket** som är högst 3 månader gammalt. Utan AIRE får man inget pass av ambassaden, ingen transkribering av födslar och vigslar, och barn födda i Sverige kan inte få sitt italienska medborgarskap registrerat.
 :::
 
+**Se även:** rösträtt i [rösträtt](/sv/guide/rostratt) och, om du flyttar tillbaka till Italien, [att lämna Sverige](/sv/guide/flytta-fran-sverige).
+
 ## Vad är AIRE och vem måste registrera sig?
 
 AIRE är Italiens register över medborgare som bor utomlands. Den som **flyttar sin bosättning utomlands i mer än 12 månader** ska registrera sig. Det gäller också den som redan bor utomlands för att hen är född där eller blev italiensk medborgare senare.

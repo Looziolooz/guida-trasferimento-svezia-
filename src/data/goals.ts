@@ -4,8 +4,9 @@ import type { Locale } from "@/lib/locales";
  * Quanto è coperto il primo anno di gestione.
  *
  * ┌──────────────────────────────────────────────────────────────────────┐
- * │  L'UNICO numero da aggiornare a mano è `raised`.                     │
- * │  Mesi coperti, fin dove è pagato, la barra: tutto si calcola da lì.  │
+ * │  Il totale `raised` NON si modifica qui: arriva da Italia Pratica    │
+ * │  (vedi `campaign.ts`). Mesi coperti, fin dove è pagato, la barra:    │
+ * │  tutto si calcola da lì. I costi sotto restano identici a Italia.    │
  * └──────────────────────────────────────────────────────────────────────┘
  *
  * Finché `raised` è `null` la campagna parte da zero giorni coperti: è lo
@@ -117,12 +118,6 @@ export const ledgerMonthlyCost = monthlyCostFor(LEDGER);
 /** Primo giorno del primo anno coperto. */
 export const yearStart = "2026-10-01";
 
-/** Totale raccolto, nella valuta del registro. `null` = niente ancora. */
-export const raised: number | null = 605; // somma di donors.ts
-
-/** Quando il totale è stato aggiornato (ISO). */
-export const raisedUpdated: string | null = "2026-10-13";
-
 export type Coverage = {
   /** Mesi coperti, con la frazione: 3,4 vuol dire tre pieni e poco più. */
   months: number;
@@ -154,8 +149,11 @@ function addMonths(iso: string, months: number): string {
  * lingua ridà la stessa cifra in corone e il suo equivalente in euro. Una
  * sola fonte, nessun rischio che la parete e il riquadro si contraddicano.
  */
-export function raisedFor(locale: Locale): number | null {
-  const state = coverage();
+export function raisedFor(
+  raised: number | null,
+  locale: Locale,
+): number | null {
+  const state = coverage(raised);
   if (!state) return null;
   return state.months * monthlyCostFor(locale);
 }
@@ -167,14 +165,14 @@ export function raisedFor(locale: Locale): number | null {
  * anche quando nessuno ha ancora donato. "0 giorni coperti" è un fatto, non
  * una barra inventata — nasconderlo lasciava un titolo senza niente sotto.
  */
-export function daysCovered(): number {
-  const state = coverage();
+export function daysCovered(raised: number | null): number {
+  const state = coverage(raised);
   if (!state) return 0;
   return Math.min(daysInYear, Math.floor((state.months / monthsInYear) * daysInYear));
 }
 
 /** `null` quando non c'è un totale da mostrare: chi chiama non disegna niente. */
-export function coverage(): Coverage | null {
+export function coverage(raised: number | null): Coverage | null {
   if (raised === null || !Number.isFinite(raised) || raised < 0) return null;
   if (ledgerMonthlyCost <= 0) return null;
 

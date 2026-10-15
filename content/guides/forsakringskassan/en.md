@@ -32,6 +32,8 @@ official:
 **Försäkringskassan** (the Swedish Social Insurance Agency) runs child allowance, parental benefit, sickness benefit and housing allowance. What counts is **where you live or work**, not your citizenship. Within the EU the rule is: **you are insured in the country where you work**. **From 1 January 2027 the qualification rules change** for some residence-based benefits: read the warning below.
 :::
 
+**See also:** the details of parental leave and VAB are in [children and family](/en/guide/barn-och-familj); for the public pension, see the guide [pension](/en/guide/pension).
+
 ## Who is insured
 
 Swedish social insurance rests on two grounds: **residence** (you live in Sweden) and **work** (you work in Sweden). Your citizenship does not matter.

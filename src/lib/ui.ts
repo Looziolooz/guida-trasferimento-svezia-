@@ -53,6 +53,7 @@ export type Dict = {
     translationMissing: string;
     essential: string;
     step: string;
+    steps: string;
     of: string;
     reset: string;
     progress: string;
@@ -133,7 +134,13 @@ export type Dict = {
     about: { title: string; lede: string };
     notFound: { title: string; body: string; cta: string };
   };
-  footer: { built: string; sources: string; license: string; contribute: string };
+  footer: {
+    built: string;
+    sources: string;
+    license: string;
+    contribute: string;
+    sister: string;
+  };
 };
 
 const it: Dict = {
@@ -198,6 +205,7 @@ const it: Dict = {
       "Questa guida non è ancora tradotta in questa lingua: stai leggendo la versione italiana.",
     essential: "Essenziale",
     step: "Passo",
+    steps: "passi",
     of: "di",
     reset: "Azzera",
     progress: "completato",
@@ -264,11 +272,15 @@ const it: Dict = {
   categories: {
     arrivo: {
       label: "Arrivo e documenti",
-      description: "Permesso di soggiorno, folkbokföring, personnummer, samordningsnummer, carta d’identità, BankID, cittadinanza svedese, AIRE per gli italiani.",
+      description: "Permesso di soggiorno, folkbokföring, personnummer, samordningsnummer, carta d’identità, BankID, cittadinanza svedese, AIRE per gli italiani, come lasciare la Svezia.",
     },
     casa: {
       label: "Casa",
-      description: "Affitto, coda per la casa, contratto di seconda mano, comprare casa.",
+      description: "Affitto, coda per la casa, contratto di seconda mano, comprare casa, assicurazione, luce e internet.",
+    },
+    famiglia: {
+      label: "Famiglia e scuola",
+      description: "Asilo e scuola, gravidanza, congedo parentale, VAB.",
     },
     salute: {
       label: "Salute",
@@ -276,11 +288,11 @@ const it: Dict = {
     },
     soldi: {
       label: "Previdenza e soldi",
-      description: "Försäkringskassan, assegni familiari, indennità di malattia.",
+      description: "Försäkringskassan, assegni familiari, indennità di malattia, tasse e pensione.",
     },
     vita: {
       label: "Lavoro e lingua",
-      description: "SFI (svedese per stranieri), Arbetsförmedlingen, sindacato e a-kassa.",
+      description: "SFI (svedese per stranieri), Arbetsförmedlingen, sindacato e a-kassa, patente, titoli di studio, voto.",
     },
   },
   pages: {
@@ -327,6 +339,7 @@ const it: Dict = {
     sources: "Ogni guida linka le fonti ufficiali che la sostengono.",
     license: "Testi riutilizzabili con attribuzione (CC BY 4.0).",
     contribute: "Trovato un errore o una regola cambiata? Scrivimi su looz.design",
+    sister: "Ti trasferisci in Italia?",
   },
 };
 
@@ -392,6 +405,7 @@ const sv: Dict = {
       "Den här guiden är ännu inte översatt till svenska: du läser den italienska versionen.",
     essential: "Grundläggande",
     step: "Steg",
+    steps: "steg",
     of: "av",
     reset: "Nollställ",
     progress: "klart",
@@ -458,11 +472,15 @@ const sv: Dict = {
   categories: {
     arrivo: {
       label: "Ankomst och dokument",
-      description: "Uppehållstillstånd, folkbokföring, personnummer, samordningsnummer, ID-kort, BankID, svenskt medborgarskap, AIRE för italienare.",
+      description: "Uppehållstillstånd, folkbokföring, personnummer, samordningsnummer, ID-kort, BankID, svenskt medborgarskap, AIRE för italienare, att lämna Sverige.",
     },
     casa: {
       label: "Bostad",
-      description: "Hyra, bostadskö, andrahandskontrakt, köpa bostad.",
+      description: "Hyra, bostadskö, andrahandskontrakt, köpa bostad, hemförsäkring, el och bredband.",
+    },
+    famiglia: {
+      label: "Familj och skola",
+      description: "Förskola och skola, graviditet, föräldraledighet, VAB.",
     },
     salute: {
       label: "Hälsa",
@@ -470,11 +488,11 @@ const sv: Dict = {
     },
     soldi: {
       label: "Trygghet och pengar",
-      description: "Försäkringskassan, barnbidrag, sjukpenning.",
+      description: "Försäkringskassan, barnbidrag, sjukpenning, skatt och pension.",
     },
     vita: {
       label: "Jobb och språk",
-      description: "SFI (svenska för invandrare), Arbetsförmedlingen, fack och a-kassa.",
+      description: "SFI (svenska för invandrare), Arbetsförmedlingen, fack och a-kassa, körkort, utländsk utbildning, rösträtt.",
     },
   },
   pages: {
@@ -521,6 +539,7 @@ const sv: Dict = {
     sources: "Varje guide länkar de officiella källor den vilar på.",
     license: "Texterna får återanvändas med källhänvisning (CC BY 4.0).",
     contribute: "Hittat ett fel eller en regel som ändrats? Hör av dig på looz.design",
+    sister: "Flyttar du till Italien?",
   },
 };
 
@@ -586,6 +605,7 @@ const en: Dict = {
       "This guide is not translated into this language yet: you are reading the Italian version.",
     essential: "Essential",
     step: "Step",
+    steps: "steps",
     of: "of",
     reset: "Reset",
     progress: "done",
@@ -652,11 +672,15 @@ const en: Dict = {
   categories: {
     arrivo: {
       label: "Arrival and documents",
-      description: "Residence permit, folkbokföring, personnummer, samordningsnummer, ID card, BankID, Swedish citizenship, AIRE for Italians.",
+      description: "Residence permit, folkbokföring, personnummer, samordningsnummer, ID card, BankID, Swedish citizenship, AIRE for Italians, leaving Sweden.",
     },
     casa: {
       label: "Housing",
-      description: "Renting, the housing queue, sublet contracts, buying a home.",
+      description: "Renting, the housing queue, sublet contracts, buying a home, home insurance, electricity and internet.",
+    },
+    famiglia: {
+      label: "Family and school",
+      description: "Preschool and school, pregnancy, parental leave, VAB.",
     },
     salute: {
       label: "Health",
@@ -664,11 +688,11 @@ const en: Dict = {
     },
     soldi: {
       label: "Benefits and money",
-      description: "Försäkringskassan, child allowance, sick pay.",
+      description: "Försäkringskassan, child allowance, sick pay, tax and pensions.",
     },
     vita: {
       label: "Work and language",
-      description: "SFI (Swedish for immigrants), Arbetsförmedlingen, unions and a-kassa (unemployment insurance).",
+      description: "SFI (Swedish for immigrants), Arbetsförmedlingen, unions and a-kassa (unemployment insurance), driving licence, foreign qualifications, voting.",
     },
   },
   pages: {
@@ -715,6 +739,7 @@ const en: Dict = {
     sources: "Every guide links the official sources behind it.",
     license: "Text reusable with attribution (CC BY 4.0).",
     contribute: "Found an error, or a rule that changed? Get in touch at looz.design",
+    sister: "Moving to Italy?",
   },
 };
 
