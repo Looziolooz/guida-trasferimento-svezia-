@@ -239,6 +239,92 @@ export const entities: Entity[] = [
     },
     guides: ["folkbokforing", "samordningsnummer"],
   },
+  {
+    id: "ambasciata-italia-stoccolma",
+    name: "Ambasciata d’Italia a Stoccolma",
+    level: "altro",
+    site: "https://ambstoccolma.esteri.it/",
+    phone: "+46 8 545 671 00",
+    what: {
+      it: "Per i cittadini italiani: iscrizione AIRE, passaporti, carta d’identità elettronica (CIE), trascrizione degli atti di stato civile e voto all’estero.",
+      sv: "För italienska medborgare: AIRE-registrering, pass, elektroniskt ID-kort (CIE), registrering av civilståndshandlingar i Italien och röstning utomlands.",
+      en: "For Italian citizens: AIRE registration, passports, the electronic identity card (CIE), transcription of civil-status records and voting abroad.",
+    },
+    where: {
+      it: "Djurgårdsvägen 174, Stoccolma. Si riceve solo su appuntamento, da prenotare su Prenot@mi.",
+      sv: "Djurgårdsvägen 174, Stockholm. Besök endast efter tidsbokning via Prenot@mi.",
+      en: "Djurgårdsvägen 174, Stockholm. By appointment only, booked through Prenot@mi.",
+    },
+    guides: ["aire"],
+  },
+  {
+    id: "lantmateriet",
+    name: "Lantmäteriet",
+    level: "stato",
+    site: "https://www.lantmateriet.se/",
+    what: {
+      it: "L’autorità del catasto: registra chi è proprietario di una casa o di un terreno (lagfart) e le ipoteche (pantbrev).",
+      sv: "Myndigheten för fastighetsregistret: registrerar vem som äger en fastighet (lagfart) och pantbreven.",
+      en: "The land registry authority: records who owns a house or land (lagfart) and mortgage deeds (pantbrev).",
+    },
+    where: {
+      it: "Online, sul sito dell’autorità. La lagfart si chiede dopo l’acquisto di una casa di proprietà, non per una bostadsrätt.",
+      sv: "Online, på myndighetens webbplats. Lagfart söker du efter köp av ett hus, inte för en bostadsrätt.",
+      en: "Online, on the authority’s website. You apply for lagfart after buying an owned house, not for a bostadsrätt.",
+    },
+    guides: ["kopa-bostad"],
+  },
+  {
+    id: "fmi",
+    name: "Fastighetsmäklarinspektionen (FMI)",
+    level: "stato",
+    site: "https://fmi.se/",
+    what: {
+      it: "Vigila sugli agenti immobiliari (fastighetsmäklare) e può disciplinarli o revocare la loro iscrizione.",
+      sv: "Tillsynsmyndighet över fastighetsmäklare; kan ge varning eller återkalla en mäklares registrering.",
+      en: "Supervises estate agents (fastighetsmäklare) and can discipline them or remove their registration.",
+    },
+    where: {
+      it: "Online. Puoi segnalare un agente immobiliare dal sito dell’autorità.",
+      sv: "Online. Du kan anmäla en fastighetsmäklare via myndighetens webbplats.",
+      en: "Online. You can report an estate agent through the authority’s website.",
+    },
+    guides: ["kopa-bostad"],
+  },
+  {
+    id: "finansinspektionen",
+    name: "Finansinspektionen (FI)",
+    level: "stato",
+    site: "https://www.fi.se/",
+    what: {
+      it: "L’autorità di vigilanza su banche e mercati finanziari; fino al 1° aprile 2026 fissava le regole sul tetto del mutuo e sul rimborso, oggi regolati per legge.",
+      sv: "Tillsynsmyndighet för banker och finansmarknaden; fastställde fram till 1 april 2026 bolånetak och amorteringskrav, som nu regleras i lag.",
+      en: "The supervisor of banks and financial markets; until 1 April 2026 it set the mortgage-cap and repayment rules, which are now set by law.",
+    },
+    where: {
+      it: "Online, sul sito dell’autorità.",
+      sv: "Online, på myndighetens webbplats.",
+      en: "Online, on the authority’s website.",
+    },
+    guides: ["kopa-bostad"],
+  },
+  {
+    id: "medlingsinstitutet",
+    name: "Medlingsinstitutet",
+    level: "stato",
+    site: "https://www.mi.se/",
+    what: {
+      it: "L’agenzia per le trattative salariali: pubblica le statistiche sui contratti collettivi e sull’iscrizione ai sindacati.",
+      sv: "Myndigheten för lönebildning och medling: publicerar statistik om kollektivavtalstäckning och organisationsgrad.",
+      en: "The agency for wage bargaining and mediation: publishes statistics on collective-agreement coverage and union membership.",
+    },
+    where: {
+      it: "Online, sul sito dell’autorità.",
+      sv: "Online, på myndighetens webbplats.",
+      en: "Online, on the authority’s website.",
+    },
+    guides: ["fack-och-a-kassa"],
+  },
 ];
 
 export const entityLevels: EntityLevel[] = ["stato", "regione", "comune", "altro"];

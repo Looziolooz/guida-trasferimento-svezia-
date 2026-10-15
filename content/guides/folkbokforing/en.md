@@ -86,6 +86,7 @@ The **personnummer** arrives **with your first registration**: you do not apply 
 - **Healthcare at local rates.** To get the reduced rates you must be folkbokförd: a permit alone is not enough. See [healthcare](/en/guide/vard).
 - **Bank account and BankID.** Many banks ask for a personnummer: see [BankID and bank account](/en/guide/bankid).
 - **Social insurance benefits.** They depend on where you live or work: see [Försäkringskassan](/en/guide/forsakringskassan).
+- **AIRE, if you are an Italian citizen.** Registering in Sweden also triggers the duty to register in AIRE (Italy's register of citizens abroad) within 90 days: see [AIRE](/en/guide/aire).
 :::
 
 :::note[SFI does not require a personnummer]

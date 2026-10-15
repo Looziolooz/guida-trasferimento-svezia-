@@ -28,9 +28,13 @@ export const guides: GuideMeta[] = [
   { slug: "folkbokforing", category: "arrivo", icon: "IdCard", order: 2, essential: true },
   { slug: "samordningsnummer", category: "arrivo", icon: "Hash", order: 3 },
   { slug: "bankid", category: "arrivo", icon: "KeyRound", order: 4, essential: true },
+  { slug: "medborgarskap", category: "arrivo", icon: "Landmark", order: 5 },
+  // Solo per cittadini italiani: l'iscrizione AIRE scatta con la folkbokföring.
+  { slug: "aire", category: "arrivo", icon: "Flag", order: 6 },
 
   // ── Casa ──────────────────────────────────────────────────────────────
   { slug: "bostad", category: "casa", icon: "Home", order: 1, essential: true },
+  { slug: "kopa-bostad", category: "casa", icon: "KeySquare", order: 2 },
 
   // ── Salute ────────────────────────────────────────────────────────────
   { slug: "vard", category: "salute", icon: "Stethoscope", order: 1, essential: true },
@@ -40,6 +44,7 @@ export const guides: GuideMeta[] = [
 
   // ── Lavoro e lingua ───────────────────────────────────────────────────
   { slug: "sfi-och-arbete", category: "vita", icon: "GraduationCap", order: 1, essential: true },
+  { slug: "fack-och-a-kassa", category: "vita", icon: "Handshake", order: 2 },
 ];
 
 export const guideSlugs = guides.map((g) => g.slug);

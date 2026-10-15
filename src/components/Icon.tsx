@@ -1,10 +1,13 @@
 import {
   Briefcase,
+  Flag,
   GraduationCap,
+  Handshake,
   Hash,
   Home,
   IdCard,
   KeyRound,
+  KeySquare,
   Landmark,
   PiggyBank,
   Plane,
@@ -14,11 +17,14 @@ import {
 import type { CategoryId } from "@/lib/guides";
 
 const registry: Record<string, LucideIcon> = {
+  Flag,
   GraduationCap,
+  Handshake,
   Hash,
   Home,
   IdCard,
   KeyRound,
+  KeySquare,
   Landmark,
   PiggyBank,
   Plane,

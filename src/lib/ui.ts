@@ -264,11 +264,11 @@ const it: Dict = {
   categories: {
     arrivo: {
       label: "Arrivo e documenti",
-      description: "Permesso di soggiorno, folkbokföring, personnummer, samordningsnummer, carta d’identità, BankID.",
+      description: "Permesso di soggiorno, folkbokföring, personnummer, samordningsnummer, carta d’identità, BankID, cittadinanza svedese, AIRE per gli italiani.",
     },
     casa: {
       label: "Casa",
-      description: "Affitto, coda per la casa, contratto di seconda mano.",
+      description: "Affitto, coda per la casa, contratto di seconda mano, comprare casa.",
     },
     salute: {
       label: "Salute",
@@ -280,7 +280,7 @@ const it: Dict = {
     },
     vita: {
       label: "Lavoro e lingua",
-      description: "SFI (svedese per stranieri), Arbetsförmedlingen, a-kassa.",
+      description: "SFI (svedese per stranieri), Arbetsförmedlingen, sindacato e a-kassa.",
     },
   },
   pages: {
@@ -458,11 +458,11 @@ const sv: Dict = {
   categories: {
     arrivo: {
       label: "Ankomst och dokument",
-      description: "Uppehållstillstånd, folkbokföring, personnummer, samordningsnummer, ID-kort, BankID.",
+      description: "Uppehållstillstånd, folkbokföring, personnummer, samordningsnummer, ID-kort, BankID, svenskt medborgarskap, AIRE för italienare.",
     },
     casa: {
       label: "Bostad",
-      description: "Hyra, bostadskö, andrahandskontrakt.",
+      description: "Hyra, bostadskö, andrahandskontrakt, köpa bostad.",
     },
     salute: {
       label: "Hälsa",
@@ -474,7 +474,7 @@ const sv: Dict = {
     },
     vita: {
       label: "Jobb och språk",
-      description: "SFI (svenska för invandrare), Arbetsförmedlingen, a-kassa.",
+      description: "SFI (svenska för invandrare), Arbetsförmedlingen, fack och a-kassa.",
     },
   },
   pages: {
@@ -652,11 +652,11 @@ const en: Dict = {
   categories: {
     arrivo: {
       label: "Arrival and documents",
-      description: "Residence permit, folkbokföring, personnummer, samordningsnummer, ID card, BankID.",
+      description: "Residence permit, folkbokföring, personnummer, samordningsnummer, ID card, BankID, Swedish citizenship, AIRE for Italians.",
     },
     casa: {
       label: "Housing",
-      description: "Renting, the housing queue, sublet contracts.",
+      description: "Renting, the housing queue, sublet contracts, buying a home.",
     },
     salute: {
       label: "Health",
@@ -668,7 +668,7 @@ const en: Dict = {
     },
     vita: {
       label: "Work and language",
-      description: "SFI (Swedish for immigrants), Arbetsförmedlingen, a-kassa (unemployment insurance).",
+      description: "SFI (Swedish for immigrants), Arbetsförmedlingen, unions and a-kassa (unemployment insurance).",
     },
   },
   pages: {

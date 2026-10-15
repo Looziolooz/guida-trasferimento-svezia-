@@ -255,6 +255,21 @@ export const checklist: ChecklistStep[] = [
 
   // ── Inom 90 dagar ─────────────────────────────────────────────────────
   {
+    id: "akassa-fack",
+    phase: "mese",
+    guide: "fack-och-a-kassa",
+    title: {
+      it: "Iscriviti a un’a-kassa (e valuta il sindacato) appena inizi a lavorare",
+      sv: "Gå med i en a-kassa (och fundera på facket) så fort du börjar arbeta",
+      en: "Join an a-kassa (and consider a union) as soon as you start working",
+    },
+    detail: {
+      it: "Sindacato e a-kassa sono due iscrizioni separate: puoi fare l’una senza l’altra. Per l’a-kassa conta la durata: dal 1° ottobre 2025 l’indennità è all’80 % solo con almeno 12 mesi di iscrizione che coprono tutto il periodo di riferimento, 60 % con gli ultimi 6 mesi, 50 % negli altri casi. Se non sai quale scegliere, l’Alfa-kassan è aperta a chiunque abbia lavorato in Svezia.",
+      sv: "Fack och a-kassa är två skilda medlemskap: du kan gå med i det ena utan det andra. För a-kassan räknas tiden: sedan 1 oktober 2025 får du 80 % bara med minst 12 månaders medlemskap som täcker hela referensperioden, 60 % med de sista 6 månaderna, annars 50 %. Vet du inte vilken du ska välja är Alfa-kassan öppen för alla som arbetat i Sverige.",
+      en: "A union and an a-kassa are two separate memberships: you can join one without the other. For the a-kassa, length counts: since 1 October 2025 the benefit is 80% only with at least 12 months of membership covering the whole reference period, 60% with the last 6 months, 50% otherwise. If you are unsure which to pick, Alfa-kassan is open to anyone who has worked in Sweden.",
+    },
+  },
+  {
     id: "forsakringskassan-formaner",
     phase: "trimestre",
     guide: "forsakringskassan",
@@ -274,14 +289,29 @@ export const checklist: ChecklistStep[] = [
     phase: "trimestre",
     guide: "sfi-och-arbete",
     title: {
-      it: "Se cerchi lavoro: Arbetsförmedlingen e subito un’a-kassa",
-      sv: "Söker du jobb: Arbetsförmedlingen och gå med i a-kassa tidigt",
-      en: "If you are job hunting: Arbetsförmedlingen, and join an a-kassa early",
+      it: "Se cerchi lavoro: iscriviti ad Arbetsförmedlingen",
+      sv: "Söker du jobb: anmäl dig hos Arbetsförmedlingen",
+      en: "If you are job hunting: register with Arbetsförmedlingen",
     },
     detail: {
-      it: "Iscriviti ad Arbetsförmedlingen come persona in cerca di lavoro: serve anche per l’a-kassa. Iscriviti presto a una cassa: dal 1° ottobre 2025 l’indennità è basata sul reddito e arriva all’80 % solo se sei stato iscritto per tutto il periodo di riferimento (60 % se iscritto almeno gli ultimi 6 mesi, 50 % altrimenti).",
-      sv: "Anmäl dig som arbetssökande hos Arbetsförmedlingen; det behövs också för a-kassan. Gå med i en a-kassa tidigt: sedan 1 oktober 2025 är ersättningen inkomstbaserad och är 80 % bara om du varit medlem under hela referensperioden (60 % om du varit medlem minst de sista 6 månaderna, annars 50 %).",
-      en: "Register with Arbetsförmedlingen as a job seeker; it is also needed for the a-kassa. Join an a-kassa early: since 1 October 2025 the benefit is income-based and reaches 80% only if you were a member for the whole reference period (60% with at least the last 6 months, otherwise 50%).",
+      it: "Iscriviti ad Arbetsförmedlingen come persona in cerca di lavoro: serve anche per chiedere l’a-kassa. La cassa a cui iscriverti (e perché farlo presto) è nel passo sull’a-kassa, nel primo mese.",
+      sv: "Anmäl dig som arbetssökande hos Arbetsförmedlingen; det behövs också för att kunna få a-kassa. Vilken kassa du ska gå med i, och varför tidigt, står i steget om a-kassa under första månaden.",
+      en: "Register with Arbetsförmedlingen as a job seeker; it is also needed to claim the a-kassa. Which fund to join, and why early, is in the a-kassa step in the first month.",
+    },
+  },
+  {
+    id: "aire-iscrizione",
+    phase: "trimestre",
+    guide: "aire",
+    title: {
+      it: "Solo cittadini italiani: iscriviti all’AIRE entro 90 giorni",
+      sv: "Bara italienska medborgare: registrera dig i AIRE inom 90 dagar",
+      en: "Italian citizens only: register with AIRE within 90 days",
+    },
+    detail: {
+      it: "Se ti trasferisci in Svezia per più di 12 mesi devi iscriverti all’AIRE entro 90 giorni, online sul portale FAST IT. Ti servono la carta d’identità o il passaporto italiano e il certificato di Skatteverket con i dati sulla famiglia e la data del trasloco, rilasciato da non più di 3 mesi: per questo conviene arrivarci dopo la folkbokföring.",
+      sv: "Flyttar du till Sverige för mer än 12 månader ska du registrera dig i AIRE inom 90 dagar, online på portalen FAST IT. Du behöver ditt italienska ID-kort eller pass och Skatteverkets intyg om familjerelationer och flyttdatum, utfärdat för högst 3 månader sedan: därför ska du göra det efter folkbokföringen.",
+      en: "If you move to Sweden for more than 12 months you must register with AIRE within 90 days, online on the FAST IT portal. You need your Italian ID card or passport and the Skatteverket certificate with family relations and move dates, issued no more than 3 months ago: that is why it comes after folkbokföring.",
     },
   },
   {

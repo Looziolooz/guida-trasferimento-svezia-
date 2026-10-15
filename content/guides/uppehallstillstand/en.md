@@ -98,6 +98,8 @@ Since **12 July 2026** the permanent residence permit is **no longer granted as 
 Since **6 June 2026** citizenship requires **8 years** of continuous residence (it used to be 5), an income requirement, and knowledge of the Swedish language and society. The tests are being introduced from 2026–2027: check the up-to-date dates on the government website.
 :::
 
+The full rules (8 years, income requirement, tests, dual citizenship) are in a dedicated guide: [Swedish citizenship](/en/guide/medborgarskap).
+
 ## Common mistakes
 
 - **Applying to Migrationsverket for a permit as an EU/EEA/Swiss citizen.** You do not need one: you have uppehållsrätt.

@@ -86,6 +86,7 @@ Il **personnummer** arriva **con la prima registrazione**: non si chiede a parte
 - **Sanità a tariffe locali.** Per le tariffe agevolate devi essere folkbokförd: il permesso da solo non basta. Vedi [sanità](/it/guide/vard).
 - **Conto in banca e BankID.** Molte banche chiedono il personnummer: vedi [BankID e conto](/it/guide/bankid).
 - **Prestazioni sociali.** Dipendono da dove vivi o lavori: vedi [Försäkringskassan](/it/guide/forsakringskassan).
+- **AIRE, se sei cittadino italiano.** Registrarti in Svezia fa scattare anche l'obbligo di iscriverti all'AIRE entro 90 giorni: vedi [AIRE](/it/guide/aire).
 :::
 
 :::note[SFI non richiede il personnummer]

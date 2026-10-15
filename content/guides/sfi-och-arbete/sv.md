@@ -66,6 +66,8 @@ För detaljer om vilka tjänster som finns (samtal, program, utbildningar) är A
 
 **A-kassan** (arbetslöshetskassan) är försäkringen vid arbetslöshet. Från **1 oktober 2025** gäller ett **nytt, inkomstbaserat system**.
 
+Fack och a-kassa är två skilda medlemskap, och ersättningens nivå beror på hur länge du varit medlem: se [fack och a-kassa](/sv/guide/fack-och-a-kassa).
+
 ### Villkoren i korthet
 
 Huvudregeln kräver:

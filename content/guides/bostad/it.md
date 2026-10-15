@@ -24,6 +24,8 @@ official:
 Nelle grandi città la casa è il problema più difficile del trasferimento: le **code per la casa (bostadskö)** richiedono **anni di attesa**, quindi la maggior parte dei nuovi arrivati comincia con un **contratto di seconda mano (andrahandskontrakt)** o con un affitto da un privato. **Non pagare mai nulla in anticipo** prima di aver visto l'appartamento e firmato il contratto: è la regola numero uno contro le truffe.
 :::
 
+**Vuoi comprare invece che affittare?** → [comprare casa](/it/guide/kopa-bostad)
+
 ## I tipi di contratto che incontrerai
 
 In Svezia si affitta soprattutto una **hyresrätt**: un appartamento in affitto, di solito in un palazzo con un proprietario che affitta molte case. Non va confusa con la **bostadsrätt**, dove invece si *compra* una quota dell'associazione del condominio e si ha il diritto di abitare l'appartamento. Qui parliamo solo di affitto.

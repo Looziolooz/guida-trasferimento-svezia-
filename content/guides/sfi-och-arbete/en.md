@@ -66,6 +66,8 @@ For details on concrete services (interviews, programmes, courses), the referenc
 
 The **a-kassa** (*arbetslöshetskassa*) is unemployment insurance. From **1 October 2025** a **new, income-based system** applies.
 
+A union and an a-kassa are two separate memberships, and the benefit level depends on how long you have been a member: see [union and a-kassa](/en/guide/fack-och-a-kassa).
+
 ### The conditions in brief
 
 The main rule requires:

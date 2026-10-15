@@ -98,6 +98,8 @@ Dal **12 luglio 2026** il permesso di soggiorno permanente **non viene più conc
 Dal **6 giugno 2026** per la cittadinanza servono **8 anni** di residenza continuativa (prima erano 5), un requisito di reddito e la conoscenza della lingua e della società svedese. I test vengono introdotti a partire dal 2026–2027: controlla le date aggiornate sul sito del governo.
 :::
 
+Per le regole complete (8 anni, requisiti di reddito, test, doppia cittadinanza) c'è la guida dedicata: [cittadinanza svedese](/it/guide/medborgarskap).
+
 ## Errori comuni
 
 - **Chiedere a Migrationsverket un permesso quando sei cittadino UE/SEE/svizzero.** Non serve: hai l'uppehållsrätt.

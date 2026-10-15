@@ -84,6 +84,7 @@ Kontrollera med Skatteverket om dina intyg måste legaliseras eller översättas
 - **Vård till regionens avgifter.** För att få vård till lägre avgifter ska du vara folkbokförd: tillstånd räcker inte. Se [vård](/sv/guide/vard).
 - **Bankkonto och BankID.** Många banker kräver personnummer: se [BankID och bankkonto](/sv/guide/bankid).
 - **Socialförsäkring.** Den beror på var du bor eller arbetar: se [Försäkringskassan](/sv/guide/forsakringskassan).
+- **AIRE, om du är italiensk medborgare.** När du folkbokförs i Sverige uppstår också skyldigheten att registrera dig i AIRE (Italiens register för medborgare bosatta utomlands) inom 90 dagar: se [AIRE](/sv/guide/aire).
 :::
 
 :::note[SFI kräver inte personnummer]

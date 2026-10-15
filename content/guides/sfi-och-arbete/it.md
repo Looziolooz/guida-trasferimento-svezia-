@@ -66,6 +66,8 @@ Per i dettagli sui servizi concreti (colloqui, programmi, corsi) il riferimento 
 
 L'**a-kassa** (*arbetslöshetskassa*) è l'assicurazione contro la disoccupazione. Dal **1° ottobre 2025** vale un **sistema nuovo, basato sul reddito**.
 
+Sindacato e a-kassa sono due iscrizioni separate, e il livello dell'indennità dipende da quanto a lungo sei iscritto: vedi [sindacato e a-kassa](/it/guide/fack-och-a-kassa).
+
 ### Le condizioni in sintesi
 
 La regola principale prevede:

@@ -98,6 +98,8 @@ Sedan **12 juli 2026** beviljas permanent uppehållstillstånd **inte längre so
 Sedan **6 juni 2026** krävs **8 års** sammanhängande bosättning för svenskt medborgarskap (tidigare 5), ett inkomstkrav samt kunskaper i svenska språket och om det svenska samhället. Proven införs från 2026–2027: kontrollera aktuella datum hos regeringen.
 :::
 
+De fullständiga reglerna (8 år, inkomstkrav, prov, dubbelt medborgarskap) finns i en egen guide: [svenskt medborgarskap](/sv/guide/medborgarskap).
+
 ## Vanliga misstag
 
 - **Ansöka om uppehållstillstånd hos Migrationsverket som EU/EES-medborgare.** Det behövs inte: du har uppehållsrätt.

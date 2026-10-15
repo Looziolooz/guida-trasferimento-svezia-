@@ -24,6 +24,8 @@ official:
 Housing is the hardest part of moving to a big Swedish city. The **housing queues (bostadskö)** mean **years of waiting**, so most newcomers start with a **sublet (andrahandskontrakt)** or a rental from a private owner. **Never pay anything in advance** before you have seen the home and the contract is signed: that is the first rule against scams.
 :::
 
+**Want to buy instead of rent?** → [buying a home](/en/guide/kopa-bostad)
+
 ## The kinds of contract you will meet
 
 Most rentals in Sweden are a **hyresrätt**: a rental apartment, usually in a building owned by a landlord who rents out many homes. Do not mix it up with a **bostadsrätt**, where someone *owns a share* in a housing association and has the right to live in the apartment. This guide is only about renting.
