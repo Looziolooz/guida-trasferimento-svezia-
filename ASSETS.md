@@ -57,6 +57,17 @@ e tutti gli URL di immagini e video (`res.cloudinary.com/dprydfxok/...`).
 3. Aggiungere una riga a questa tabella con file, sorgente, prompt, data e licenza.
 4. Servirle con `next/image`.
 
+## Font per le anteprime social
+
+Letti da disco in `src/lib/og-card.tsx` (nessun URL esterno a runtime). `next/og` (Satori)
+non legge WOFF2: TTF, un solo peso ciascuno.
+
+| File | Sorgente | Scopo | Data | Licenza |
+|---|---|---|---|---|
+| `assets/fonts/SourceSerif4-Semibold.ttf` | https://github.com/adobe-fonts/source-serif/releases/download/4.005R/source-serif-4.005_Desktop.zip (TTF/) | Titolo delle immagini Open Graph | 2026-10-15 | SIL OFL 1.1 |
+| `assets/fonts/Inter-Regular.ttf` | https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip (extras/ttf/) | Testo piccolo delle immagini Open Graph | 2026-10-15 | SIL OFL 1.1 |
+| `assets/fonts/Inter-Bold.ttf` | https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip (extras/ttf/) | Etichette e dominio delle immagini Open Graph | 2026-10-15 | SIL OFL 1.1 |
+
 ## Disegni vettoriali scritti a mano
 
 Non è un file: è un componente. Nessuna sorgente esterna, nessun URL di terzi,

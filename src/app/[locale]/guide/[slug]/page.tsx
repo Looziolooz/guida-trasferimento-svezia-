@@ -39,11 +39,8 @@ export async function generateMetadata({
       description: guide.frontmatter.summary,
       modifiedTime: guide.frontmatter.updated,
       url: `/${locale}/guide/${slug}`,
-      // Un `openGraph` di pagina sostituisce quello del layout invece di
-      // fondersi: senza questa riga le guide condivise non hanno anteprima.
-      images: [
-        { url: `/${locale}/opengraph-image`, width: 1200, height: 630, alt: "Svezia Pratica" },
-      ],
+      // Niente `images`: l'immagine della guida arriva da opengraph-image.tsx
+      // in questa cartella (i metadata da file hanno la precedenza).
     },
   };
 }
